@@ -29,3 +29,11 @@ To make the new visualization (which will have higher fidelity but probably look
 - [Examples](http://dimplejs.org/examples_index.html)
 - [Advanced Examples](http://dimplejs.org/advanced_examples_index.html)
 - [Full API Docs](https://github.com/PMSI-AlignAlytics/dimple/wiki)
+
+
+
+## Future Improvements: 
+
+- Increase the font size of the axes' labels.
+- Have the svg original size be responsive to the original browser widths.
+- Have the svg resize when browser width changes.
